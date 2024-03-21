@@ -1,0 +1,7 @@
+[package]
+name = "cargo-apply"
+version = "0.1.0"
+authors = ["Pierre Fenoll <pierrefenoll@gmail.com>"]
+repository = "https://github.com/fenollp/cargo-apply"
+edition = "2021"
+license = "MIT"
